@@ -1,11 +1,18 @@
-# C2FAR-SITE
+# Site Equipe do PI 
 
-Oii! Aqui estão as instrunções do nosso site. 
+## Funcionalidades
 
-O site ele possui informações do nosso projeto integrador da faculdade. 
-. Ao fim do nosso site existe um formulário onde o objetivo é os professores se cadastrarem para que possamos analisar 
-e aprovar ele para se cadastrar oficialmente no nosso aplicativo. 
-. O formulário foi feito com PHP, e o github não possui suporte para isso. 
-. Então para que o formulário funcione, recomendo abrir os arquivos utilizando o xampp.
+- Criar cadastro do professor para o aplicativo Game do Saber
 
-😊😊😊😊
+## O que precisa para rodar esse projeto?
+
+- MySql
+- Xampp
+  
+## Como rodar o projeto?
+
+- É necessário que a pasta do projeto esteja com o nome C2FAR-SITE. 
+- Coloque a pasta no htdocs do xampp e de start no apache e no mysql.
+- Entre no localhost através do seu navegador.
+
+
